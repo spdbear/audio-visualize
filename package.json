@@ -1,0 +1,10 @@
+{
+  "name": "audio-visualize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "spdbear <16793732+spdbear@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "howler": "^2.2.1"
+  }
+}
